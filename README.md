@@ -1,4 +1,4 @@
-#THE BRIDGET BOT
+# THE BRIDGET BOT
 
 ## What is this?
 Well Bridget bot is a Bot powered by CHATGPT, that will techically do the same job as CHATGPT, with the exception that it a new personality, and is trained on a different dataset.
@@ -12,4 +12,4 @@ well, just talk to her, is that simple, there's a dataset already with some conv
 ## How do I add more datasets?
 Don't, dude, the avergae tpm for chat-gpt is like 40,000, with one is more that enough, and sometimes it even forgets what you said and her initial prompt, so don't add more datasets, just talk to her.
 
-#Hope all of you enjoy it
+# Hope all of you enjoy it
