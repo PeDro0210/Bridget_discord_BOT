@@ -13,3 +13,6 @@ well, just talk to her, is that simple, there's a dataset already with some conv
 Don't, dude, the avergae tpm for chat-gpt is like 40,000, with one is more that enough, and sometimes it even forgets what you said and her initial prompt, so don't add more datasets, just talk to her.
 
 # Hope all of you enjoy it
+
+### Btw, remebear you need to make an .env file for the keys
+### if you want to talk to here, join the server https://discord.gg/CgyF6fXv
